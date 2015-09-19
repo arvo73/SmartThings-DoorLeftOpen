@@ -23,9 +23,9 @@ definition(
     author: "Nicole",
     description: "Sends a notification when a door is left open after X seconds. Can send SMS messages to up to 2 numbers, push notification is optional.",
     category: "Safety & Security",
-    iconUrl: "https://cloud.githubusercontent.com/assets/13872708/9962629/b4d30fac-5df4-11e5-97a7-67eae2975165.png",
-    iconX2Url: "https://cloud.githubusercontent.com/assets/13872708/9962632/b889737a-5df4-11e5-9da4-3dae6a100ada.png",
-    iconX3Url: "https://cloud.githubusercontent.com/assets/13872708/9962632/b889737a-5df4-11e5-9da4-3dae6a100ada.png")
+    iconUrl: "http://i.imgur.com/75YntiU.png",
+    iconX2Url: "http://imgur.com/C9Jj0K5",
+    iconX3Url: "http://imgur.com/C9Jj0K5")
   
 preferences {
 
