@@ -1,6 +1,6 @@
 /**
  *  Door Left Open
- *
+ **
  *  Copyright 2015 Nicole Zeckner
  *
  *  Based on code written by brian@rayzurbock.com
